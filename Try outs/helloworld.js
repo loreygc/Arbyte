@@ -1,1 +1,1 @@
-console.log (Hello.World, World)
+console.log ("Hello world")
