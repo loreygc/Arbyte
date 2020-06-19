@@ -1,4 +1,4 @@
-let rs= require ("readline-sync")
+let rs= require ('readline-sync')
 let verdade ="o céu é azul"
 let mentira ="o sol não existe"
 
